@@ -6,8 +6,7 @@
     "test": "bun tests/tests.ts",
     "fuzz": "bun tests/fuzzyTests.ts",
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "build": "vite build"
   },
   "prettier": {
     "xmlWhitespaceSensitivity": "ignore",

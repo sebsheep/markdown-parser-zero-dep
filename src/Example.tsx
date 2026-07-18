@@ -26,7 +26,17 @@ export const Example = () => {
 
   return (
     <div className="h-screen w-screen flex-col gap-16 p-16 box-border">
-      <h1 className="text-18 font-bold">Markdown parser demo</h1>
+      <div className="flex items-center gap-8">
+        <h1 className="text-18 font-bold">Markdown parser demo</h1>
+        <a
+          href="https://github.com/sebsheep/markdown-parser-zero-dep"
+          target="_blank"
+          rel="noreferrer"
+          className="text-14 text-blue-500 hover:underline"
+        >
+          See on GitHub
+        </a>
+      </div>
       <div className="flex-1 flex gap-16 min-h-0">
         <textarea
           value={markdown}
