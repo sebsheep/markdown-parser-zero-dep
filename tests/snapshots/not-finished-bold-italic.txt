@@ -1,0 +1,46 @@
+{
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "Hello "
+        },
+        {
+          "kind": "normalString",
+          "value": "**"
+        },
+        {
+          "kind": "normalString",
+          "value": " "
+        },
+        {
+          "kind": "normalString",
+          "value": "*"
+        },
+        {
+          "kind": "normalString",
+          "value": "italic and bold"
+        }
+      ]
+    }
+  ]
+}
+Errors:
+[
+  {
+    "kind": "StylingTagNotClosed",
+    "range": {
+      "start": 9,
+      "end": 10
+    }
+  },
+  {
+    "kind": "StylingTagNotClosed",
+    "range": {
+      "start": 6,
+      "end": 8
+    }
+  }
+]

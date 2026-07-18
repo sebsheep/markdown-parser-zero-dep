@@ -1,0 +1,50 @@
+{
+  "blocks": [
+    {
+      "kind": "header",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "Hello "
+        },
+        {
+          "kind": "formattedCode",
+          "value": "code"
+        },
+        {
+          "kind": "normalString",
+          "value": " world"
+        }
+      ],
+      "level": 1
+    },
+    {
+      "kind": "list",
+      "items": [
+        {
+          "content": [
+            {
+              "kind": "formattedCode",
+              "value": "co**de**"
+            },
+            {
+              "kind": "normalString",
+              "value": " "
+            },
+            {
+              "kind": "italic",
+              "value": [
+                {
+                  "kind": "normalString",
+                  "value": "blabla"
+                }
+              ]
+            }
+          ],
+          "sublist": null
+        }
+      ],
+      "numberingStartingFrom": null
+    }
+  ]
+}

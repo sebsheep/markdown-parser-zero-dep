@@ -1,0 +1,33 @@
+{
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "link",
+          "value": [
+            {
+              "kind": "normalString",
+              "value": "link"
+            }
+          ],
+          "url": "`"
+        },
+        {
+          "kind": "normalString",
+          "value": "`"
+        }
+      ]
+    }
+  ]
+}
+Errors:
+[
+  {
+    "kind": "StylingTagNotClosed",
+    "range": {
+      "start": 9,
+      "end": 10
+    }
+  }
+]

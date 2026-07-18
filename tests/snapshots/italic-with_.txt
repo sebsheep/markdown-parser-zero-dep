@@ -1,0 +1,26 @@
+{
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "Hello "
+        },
+        {
+          "kind": "italic",
+          "value": [
+            {
+              "kind": "normalString",
+              "value": "italic"
+            }
+          ]
+        },
+        {
+          "kind": "normalString",
+          "value": " world"
+        }
+      ]
+    }
+  ]
+}

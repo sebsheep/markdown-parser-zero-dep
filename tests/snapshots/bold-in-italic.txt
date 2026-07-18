@@ -1,0 +1,39 @@
+{
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "Hello "
+        },
+        {
+          "kind": "bold",
+          "value": [
+            {
+              "kind": "normalString",
+              "value": " "
+            },
+            {
+              "kind": "italic",
+              "value": [
+                {
+                  "kind": "normalString",
+                  "value": "italic and bold"
+                }
+              ]
+            },
+            {
+              "kind": "normalString",
+              "value": " but only bold"
+            }
+          ]
+        },
+        {
+          "kind": "normalString",
+          "value": " text"
+        }
+      ]
+    }
+  ]
+}

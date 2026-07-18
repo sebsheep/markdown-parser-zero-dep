@@ -1,0 +1,43 @@
+{
+  "name": "markdown-parser",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "bun tests/tests.ts",
+    "fuzz": "bun tests/fuzzyTests.ts",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "prettier": {
+    "xmlWhitespaceSensitivity": "ignore",
+    "objectWrap": "collapse",
+    "experimentalOperatorPosition": "start",
+    "experimentalTernaries": true,
+    "plugins": [
+      "@arnaud-barre/prettier-plugin-sort-imports"
+    ]
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@arnaud-barre/check-circular-imports": "^0.2.0",
+    "@arnaud-barre/downwind": "^0.8.4",
+    "@arnaud-barre/eslint-config": "^7.1.0",
+    "@arnaud-barre/prettier-plugin-sort-imports": "^0.2.4",
+    "@arnaud-barre/tsl-config": "^0.1.5",
+    "@types/bun": "^1.2.18",
+    "@types/node": "^22.19.17",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "@vitejs/plugin-react": "^6.0.1",
+    "bun-dedupe": "^0.0.6",
+    "eslint": "^10.7.0",
+    "prettier": "^3.6.2",
+    "tsl": "^1.0.30",
+    "typescript": "~6.0",
+    "vite": "^8.0.5"
+  }
+}

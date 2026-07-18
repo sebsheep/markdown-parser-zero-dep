@@ -1,0 +1,59 @@
+{
+  "blocks": [
+    {
+      "kind": "list",
+      "items": [
+        {
+          "content": [
+            {
+              "kind": "normalString",
+              "value": "`"
+            },
+            {
+              "kind": "normalString",
+              "value": "\n"
+            }
+          ],
+          "sublist": null
+        }
+      ],
+      "numberingStartingFrom": null
+    },
+    {
+      "kind": "header",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "`"
+        }
+      ],
+      "level": 1
+    },
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": " "
+        }
+      ]
+    }
+  ]
+}
+Errors:
+[
+  {
+    "kind": "StylingTagNotClosed",
+    "range": {
+      "start": 2,
+      "end": 3
+    }
+  },
+  {
+    "kind": "StylingTagNotClosed",
+    "range": {
+      "start": 6,
+      "end": 7
+    }
+  }
+]

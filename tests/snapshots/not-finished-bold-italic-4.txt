@@ -1,0 +1,68 @@
+{
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "**"
+        },
+        {
+          "kind": "normalString",
+          "value": "before "
+        },
+        {
+          "kind": "normalString",
+          "value": "_"
+        },
+        {
+          "kind": "normalString",
+          "value": "italic and bold"
+        },
+        {
+          "kind": "normalString",
+          "value": "**"
+        },
+        {
+          "kind": "normalString",
+          "value": " after"
+        },
+        {
+          "kind": "normalString",
+          "value": "_"
+        }
+      ]
+    }
+  ]
+}
+Errors:
+[
+  {
+    "kind": "StylingTagNotClosed",
+    "range": {
+      "start": 33,
+      "end": 34
+    }
+  },
+  {
+    "kind": "StylingTagNotClosed",
+    "range": {
+      "start": 25,
+      "end": 27
+    }
+  },
+  {
+    "kind": "StylingTagNotClosed",
+    "range": {
+      "start": 9,
+      "end": 10
+    }
+  },
+  {
+    "kind": "StylingTagNotClosed",
+    "range": {
+      "start": 0,
+      "end": 2
+    }
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "Hello "
+        },
+        {
+          "kind": "normalString",
+          "value": "*"
+        },
+        {
+          "kind": "normalString",
+          "value": "italic"
+        }
+      ]
+    }
+  ]
+}
+Errors:
+[
+  {
+    "kind": "StylingTagNotClosed",
+    "range": {
+      "start": 6,
+      "end": 7
+    }
+  }
+]

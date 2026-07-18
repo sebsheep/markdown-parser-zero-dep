@@ -1,0 +1,1 @@
+[{"kind":"text","text":"This "},{"kind":"variable","name":"name"},{"kind":"text","text":" is awesome"}]

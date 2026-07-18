@@ -1,0 +1,25 @@
+{
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "text "
+        },
+        {
+          "kind": "normalString",
+          "value": "("
+        },
+        {
+          "kind": "normalString",
+          "value": "text2"
+        },
+        {
+          "kind": "normalString",
+          "value": ")"
+        }
+      ]
+    }
+  ]
+}

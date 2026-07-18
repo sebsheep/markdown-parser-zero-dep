@@ -1,0 +1,41 @@
+[
+  {
+    "kind": "list-marker",
+    "range": {
+      "start": 0,
+      "end": 2
+    },
+    "indent": 0,
+    "number": null
+  },
+  {
+    "kind": "text",
+    "range": {
+      "start": 2,
+      "end": 13
+    }
+  },
+  {
+    "kind": "list-marker",
+    "range": {
+      "start": 14,
+      "end": 16
+    },
+    "indent": 0,
+    "number": null
+  },
+  {
+    "kind": "text",
+    "range": {
+      "start": 16,
+      "end": 27
+    }
+  },
+  {
+    "kind": "EOF",
+    "range": {
+      "start": 27,
+      "end": 27
+    }
+  }
+]

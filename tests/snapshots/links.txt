@@ -1,0 +1,23 @@
+{
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "Here is a "
+        },
+        {
+          "kind": "link",
+          "value": [
+            {
+              "kind": "normalString",
+              "value": "link"
+            }
+          ],
+          "url": "https://example.com"
+        }
+      ]
+    }
+  ]
+}

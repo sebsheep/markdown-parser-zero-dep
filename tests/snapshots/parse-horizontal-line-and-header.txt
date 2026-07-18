@@ -1,0 +1,17 @@
+{
+  "blocks": [
+    {
+      "kind": "horizontal-line"
+    },
+    {
+      "kind": "header",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "09/02"
+        }
+      ],
+      "level": 1
+    }
+  ]
+}

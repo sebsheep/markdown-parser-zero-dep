@@ -1,0 +1,17 @@
+{
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "hello "
+        },
+        {
+          "kind": "anonymizedString",
+          "length": 4
+        }
+      ]
+    }
+  ]
+}

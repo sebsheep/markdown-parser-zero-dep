@@ -1,0 +1,23 @@
+{
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "["
+        }
+      ]
+    }
+  ]
+}
+Errors:
+[
+  {
+    "kind": "BracketNotClosed",
+    "range": {
+      "start": 0,
+      "end": 1
+    }
+  }
+]

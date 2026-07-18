@@ -1,0 +1,71 @@
+{
+  "blocks": [
+    {
+      "kind": "list",
+      "items": [
+        {
+          "content": [
+            {
+              "kind": "normalString",
+              "value": "List "
+            },
+            {
+              "kind": "italic",
+              "value": [
+                {
+                  "kind": "normalString",
+                  "value": "item"
+                }
+              ]
+            },
+            {
+              "kind": "normalString",
+              "value": " 2"
+            }
+          ],
+          "sublist": null
+        },
+        {
+          "content": [
+            {
+              "kind": "bold",
+              "value": [
+                {
+                  "kind": "normalString",
+                  "value": "List"
+                }
+              ]
+            },
+            {
+              "kind": "normalString",
+              "value": " item 3\nHello"
+            }
+          ],
+          "sublist": null
+        }
+      ],
+      "numberingStartingFrom": null
+    },
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "World\n"
+        }
+      ]
+    },
+    {
+      "kind": "horizontal-line"
+    },
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "Guten tag!"
+        }
+      ]
+    }
+  ]
+}

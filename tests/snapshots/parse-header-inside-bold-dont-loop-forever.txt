@@ -1,0 +1,32 @@
+{
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "**"
+        },
+        {
+          "kind": "normalString",
+          "value": " \n"
+        }
+      ]
+    },
+    {
+      "kind": "header",
+      "content": [],
+      "level": 1
+    }
+  ]
+}
+Errors:
+[
+  {
+    "kind": "StylingTagNotClosed",
+    "range": {
+      "start": 0,
+      "end": 2
+    }
+  }
+]

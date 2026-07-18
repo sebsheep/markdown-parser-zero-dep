@@ -1,0 +1,23 @@
+{
+  "blocks": [
+    {
+      "kind": "header",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "Title"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "Salut"
+        }
+      ]
+    }
+  ]
+}

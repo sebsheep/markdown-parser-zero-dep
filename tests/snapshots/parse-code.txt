@@ -1,0 +1,13 @@
+{
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "formattedCode",
+          "value": "code"
+        }
+      ]
+    }
+  ]
+}

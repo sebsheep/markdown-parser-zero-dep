@@ -1,0 +1,28 @@
+{
+  "blocks": [
+    {
+      "kind": "list",
+      "items": [
+        {
+          "content": [
+            {
+              "kind": "normalString",
+              "value": "List item 1"
+            }
+          ],
+          "sublist": null
+        },
+        {
+          "content": [
+            {
+              "kind": "normalString",
+              "value": "List item 2"
+            }
+          ],
+          "sublist": null
+        }
+      ],
+      "numberingStartingFrom": 1
+    }
+  ]
+}

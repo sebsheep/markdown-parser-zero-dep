@@ -1,0 +1,24 @@
+{
+  "blocks": [
+    {
+      "kind": "header",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "["
+        }
+      ],
+      "level": 1
+    }
+  ]
+}
+Errors:
+[
+  {
+    "kind": "BracketNotClosed",
+    "range": {
+      "start": 2,
+      "end": 3
+    }
+  }
+]

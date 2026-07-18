@@ -1,0 +1,49 @@
+{
+  "blocks": [
+    {
+      "kind": "list",
+      "items": [
+        {
+          "content": [
+            {
+              "kind": "normalString",
+              "value": "List item 1"
+            }
+          ],
+          "sublist": null
+        }
+      ],
+      "numberingStartingFrom": null
+    },
+    {
+      "kind": "list",
+      "items": [
+        {
+          "content": [
+            {
+              "kind": "normalString",
+              "value": "List item 2"
+            }
+          ],
+          "sublist": null
+        }
+      ],
+      "numberingStartingFrom": null
+    },
+    {
+      "kind": "list",
+      "items": [
+        {
+          "content": [
+            {
+              "kind": "normalString",
+              "value": "List item 3"
+            }
+          ],
+          "sublist": null
+        }
+      ],
+      "numberingStartingFrom": null
+    }
+  ]
+}

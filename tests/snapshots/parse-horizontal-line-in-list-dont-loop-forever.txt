@@ -1,0 +1,22 @@
+{
+  "blocks": [
+    {
+      "kind": "list",
+      "items": [
+        {
+          "content": [
+            {
+              "kind": "normalString",
+              "value": "\n"
+            }
+          ],
+          "sublist": null
+        }
+      ],
+      "numberingStartingFrom": null
+    },
+    {
+      "kind": "horizontal-line"
+    }
+  ]
+}

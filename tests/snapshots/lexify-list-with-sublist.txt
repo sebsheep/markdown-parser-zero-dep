@@ -1,0 +1,73 @@
+[
+  {
+    "kind": "list-marker",
+    "range": {
+      "start": 0,
+      "end": 2
+    },
+    "indent": 0,
+    "number": null
+  },
+  {
+    "kind": "text",
+    "range": {
+      "start": 2,
+      "end": 13
+    }
+  },
+  {
+    "kind": "list-marker",
+    "range": {
+      "start": 16,
+      "end": 18
+    },
+    "indent": 2,
+    "number": null
+  },
+  {
+    "kind": "text",
+    "range": {
+      "start": 18,
+      "end": 32
+    }
+  },
+  {
+    "kind": "list-marker",
+    "range": {
+      "start": 35,
+      "end": 37
+    },
+    "indent": 2,
+    "number": null
+  },
+  {
+    "kind": "text",
+    "range": {
+      "start": 37,
+      "end": 51
+    }
+  },
+  {
+    "kind": "list-marker",
+    "range": {
+      "start": 52,
+      "end": 54
+    },
+    "indent": 0,
+    "number": null
+  },
+  {
+    "kind": "text",
+    "range": {
+      "start": 54,
+      "end": 65
+    }
+  },
+  {
+    "kind": "EOF",
+    "range": {
+      "start": 65,
+      "end": 65
+    }
+  }
+]

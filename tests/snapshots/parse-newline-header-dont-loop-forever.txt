@@ -1,0 +1,18 @@
+{
+  "blocks": [
+    {
+      "kind": "paragraph",
+      "content": [
+        {
+          "kind": "normalString",
+          "value": "\n"
+        }
+      ]
+    },
+    {
+      "kind": "header",
+      "content": [],
+      "level": 1
+    }
+  ]
+}

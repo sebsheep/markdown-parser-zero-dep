@@ -1,0 +1,55 @@
+{
+  "blocks": [
+    {
+      "kind": "list",
+      "items": [
+        {
+          "content": [
+            {
+              "kind": "normalString",
+              "value": "a"
+            }
+          ],
+          "sublist": {
+            "items": [
+              {
+                "content": [
+                  {
+                    "kind": "normalString",
+                    "value": "b"
+                  }
+                ],
+                "sublist": null
+              }
+            ],
+            "numberingStartingFrom": null
+          }
+        },
+        {
+          "content": [
+            {
+              "kind": "normalString",
+              "value": "c"
+            }
+          ],
+          "sublist": null
+        }
+      ],
+      "numberingStartingFrom": null
+    }
+  ]
+}
+Errors:
+[
+  {
+    "kind": "NotAlignedListMarkers",
+    "firstRange": {
+      "start": 0,
+      "end": 2
+    },
+    "notAlignedRange": {
+      "start": 11,
+      "end": 13
+    }
+  }
+]
