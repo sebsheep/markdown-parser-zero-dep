@@ -194,6 +194,7 @@ const tests: Snapshot[] = [
     name: "parse-horizontal-line-in-list-dont-loop-forever",
     input: () => testMarkdown("* \n---\n"),
   },
+  {name: "temporary-test", input: () => testMarkdown(`This is a **bold** text. This is an [link](https://example.com)`) },
 ];
 
 await runTests(tests, "tests/snapshots");
